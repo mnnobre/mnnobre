@@ -94,17 +94,6 @@ Sistema de bots inteligentes com leitura de tela e tomada de decisão baseada em
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/mnnobre">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mnnobre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnnobre&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🌐 Contato
 
 <div align="center">
@@ -122,9 +111,3 @@ Sistema de bots inteligentes com leitura de tela e tomada de decisão baseada em
 </a>
 
 </div>
-
----
-
-## 🐍 Activity Graph
-
-![Snake animation](https://github.com/mnnobre/mnnobre/blob/output/github-contribution-grid-snake.svg)
