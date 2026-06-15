@@ -68,6 +68,19 @@ contexto, MCP e especificações ao processo de desenvolvimento.
   <img src="https://raw.githubusercontent.com/mnnobre/releasepilot-ai/main/docs/assets/releasepilot-dashboard.png" alt="ReleasePilot AI dashboard">
 </a>
 
+## Experiência em destaque
+
+### Design System corporativo
+
+Atuei no desenvolvimento web de um design system para uma empresa brasileira
+de grande porte do setor de energia, transformando especificações do Figma em
+uma base reutilizável com HTML, CSS e JavaScript.
+
+O trabalho envolveu estruturação de tokens visuais, escalas de cores,
+consistência entre componentes e tradução fiel do design para código. Por
+confidencialidade, o cliente, o código-fonte e os materiais internos não são
+publicados.
+
 ## Engenharia em foco
 
 | Enterprise development | Automation & quality | AI-Driven Engineering |
