@@ -1,113 +1,119 @@
-# 👋 Matheus Nobre
+<div align="center">
 
-💻 **OutSystems Developer | Automation & AI Engineer**  
-🚀 Construindo sistemas de automação, integração e inteligência aplicada  
-🧠 Foco em transformar problemas operacionais em soluções escaláveis  
+<img src="./assets/profile-header.svg" alt="Matheus Nobre - OutSystems, Automation and AI-Driven Development" width="100%">
 
----
+<br>
 
-## 🚀 Sobre mim
-
-Desenvolvedor com mais de **4 anos de experiência em OutSystems**, com forte base em **Front-End (HTML, CSS, JavaScript e UI/UX)** e atuação em projetos enterprise.
-
-Iniciei minha carreira focado em desenvolvimento front-end, construindo interfaces responsivas e experiências de usuário eficientes, e ao longo do tempo evoluí para trabalhar com sistemas mais complexos, integrações e automação.
-
-Hoje atuo principalmente com:
-
-- 🧪 **Automação de testes e qualidade (QA)** com Playwright e GitHub Actions  
-- 🤖 **Sistemas com IA e agentes inteligentes**  
-- 🎮 **Engenharia de bots e automação para ambientes complexos (MMORPGs)**  
-- 🌐 **APIs, integrações e arquitetura de sistemas**  
-
-Combino experiência em **interface, lógica e arquitetura**, o que me permite construir soluções completas com foco em performance, escalabilidade e usabilidade.
-
----
-
-## 🏢 Experiência em Projetos
-
-Atuação em projetos de grande escala para clientes no Brasil e exterior, incluindo:
-
-- 🏦 **Instituições financeiras globais**
-- 🏛️ **Setor público e serviços governamentais**
-- ⚡ **Empresas do setor de energia**
-- 🌎 Projetos internacionais (Brasil, Estados Unidos e Europa)
-
-### 🔧 Principais responsabilidades:
-- Desenvolvimento e manutenção de aplicações enterprise com OutSystems  
-- Integração com APIs e sistemas legados  
-- Implementação de melhorias de performance e estabilidade  
-- Atuação em times ágeis com foco em entrega contínua  
-- Apoio em qualidade e automação de processos  
-
----
-
-## 🔥 Projetos em destaque
-
-### 🧪 QA Dashboard Orchestrator
-Plataforma para orquestração e gestão de testes automatizados integrada ao GitHub Actions  
-> Foco em controle de execução, rastreabilidade e análise de resultados
-
----
-
-### 🤖 Skill Alexa - Task Manager
-Sistema de automação de tarefas com integração Alexa + API própria  
-> Interface por voz para gerenciamento de rotinas e eventos
-
----
-
-### 🎮 ROTauri Client
-Cliente de Ragnarok desenvolvido com Tauri + Rust  
-> Exploração de engenharia de clientes, renderização e integração com sistemas legados
-
----
-
-### 🤖 LYNX AI Bots
-Sistema de bots inteligentes com leitura de tela e tomada de decisão baseada em IA  
-> Automação de interações em ambientes dinâmicos e não estruturados
-
----
-
-## 🧠 Stack & Tecnologias
-
-<div align="center" style="display: inline_block"><br>
-
-<img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Nobre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnnobre/)
+[![Email](https://img.shields.io/badge/Email-Contato-111827?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:matheus-conta@outlook.com)
+[![Profile views](https://komarev.com/ghpvc/?username=mnnobre&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/mnnobre)
 
 </div>
 
----
+## Sobre
 
-## 🎯 Especialidades
+Sou desenvolvedor OutSystems pleno, com experiência profissional desde 2022
+em aplicações web, interfaces responsivas, regras de negócio, SQL e
+integrações via APIs REST.
 
-- 💻 Front-End: HTML, CSS, JavaScript, UI/UX, Responsividade  
-- ⚙️ Automação: Playwright, GitHub Actions  
-- 🔗 Integrações: APIs REST, sistemas legados  
-- 🧠 IA aplicada: agentes, visão computacional, automação inteligente  
-- 🏗️ Desenvolvimento enterprise com OutSystems  
+Minha base em front-end me ajuda a conectar experiência do usuário e
+implementação. Atualmente, amplio essa atuação com automação, arquitetura de
+software e AI-Driven Development, aplicando agentes, skills, engenharia de
+contexto, MCP e especificações ao processo de desenvolvimento.
 
----
+- Atualmente: **Desenvolvedor OutSystems Pleno na Drakkar Brasil**
+- Certificações: **Associate Reactive Developer** e
+  **Front-end Developer Specialist**
+- Formação: **Sistemas para Internet pela FIAP**
+- Em evolução: **AI-Driven Development, arquitetura e cloud**
 
-## 🌐 Contato
+## Projeto principal
+
+<table>
+  <tr>
+    <td width="70%">
+      <h3>ReleasePilot AI</h3>
+      <p>
+        Plataforma pública em desenvolvimento para centralizar qualidade,
+        execuções automatizadas, evidências de testes, checklists de release
+        e resumos assistidos por IA.
+      </p>
+      <p>
+        O MVP já entrega um dashboard responsivo para quality gates,
+        execuções automatizadas, risco de mudança e recomendação de release,
+        acompanhado por testes, documentação de arquitetura e CI.
+      </p>
+      <p>
+        <strong>Status:</strong> v0.1.0 funcional, com dados demonstrativos e
+        mecanismo de análise determinístico preparado para uma futura
+        integração com IA.
+      </p>
+      <p>
+        <a href="https://github.com/mnnobre/releasepilot-ai">
+          Ver código, arquitetura e roadmap
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <strong>TypeScript</strong><br>
+      <strong>React</strong><br>
+      <strong>Vitest</strong><br>
+      <strong>Testing Library</strong><br>
+      <strong>GitHub Actions</strong>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/mnnobre/releasepilot-ai">
+  <img src="https://raw.githubusercontent.com/mnnobre/releasepilot-ai/main/docs/assets/releasepilot-dashboard.png" alt="ReleasePilot AI dashboard">
+</a>
+
+## Engenharia em foco
+
+| Enterprise development | Automation & quality | AI-Driven Engineering |
+| --- | --- | --- |
+| OutSystems 11 | Playwright | Agents & skills |
+| Reactive Web | GitHub Actions | Context engineering |
+| SQL | Test automation | MCP |
+| REST APIs | Release workflows | Spec-Driven Development |
+| Integrações | Observabilidade | Prompt engineering |
+
+## Stack
 
 <div align="center">
 
-<a href="https://www.instagram.com/mn.nobre/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+![OutSystems](https://img.shields.io/badge/OutSystems-ED1C24?style=flat-square&logo=outsystems&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css)
 
-<a href="mailto:mathusnobre.gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/mnnobre" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## Como eu trabalho
+
+- Primeiro o problema e o contexto, depois a ferramenta.
+- Arquitetura deve tornar mudanças mais simples, não apenas parecer sofisticada.
+- Testes, segurança e observabilidade fazem parte da entrega.
+- IA acelera o desenvolvimento quando contexto, limites e validação estão claros.
+- Documentação deve explicar decisões, trade-offs e operação do sistema.
+
+## Atividade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnnobre/mnnobre/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnnobre/mnnobre/output/github-snake.svg">
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/mnnobre/mnnobre/output/github-snake.svg">
+</picture>
+
+<div align="center">
+
+**OutSystems + APIs + Automation + AI-Driven Development**
 
 </div>
