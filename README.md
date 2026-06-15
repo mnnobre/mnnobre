@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Matheus Nobre - OutSystems, Automation and AI-Driven Development" width="100%">
+<img src="./assets/profile-header-v2.svg" alt="Matheus Nobre - OutSystems, Automation and AI-Driven Development" width="100%">
 
 <br>
 
