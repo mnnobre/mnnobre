@@ -93,6 +93,8 @@ contexto, MCP e especificações ao processo de desenvolvimento.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
+![Design Systems](https://img.shields.io/badge/Design_Systems-111827?style=flat-square)
 
 </div>
 
