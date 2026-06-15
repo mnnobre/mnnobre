@@ -81,6 +81,19 @@ consistência entre componentes e tradução fiel do design para código. Por
 confidencialidade, o cliente, o código-fonte e os materiais internos não são
 publicados.
 
+### Projetos corporativos selecionados
+
+Os projetos abaixo são descritos de forma anonimizada. Código, clientes,
+dados e materiais internos permanecem confidenciais.
+
+| Domínio | Contribuição |
+| --- | --- |
+| Pagamentos e serviços veiculares | Desenvolvimento de uma plataforma web e mobile para consulta e pagamento de débitos, com implementação responsiva baseada em Figma, componentes reutilizáveis e interações customizadas com JavaScript. |
+| Logística e rastreabilidade | Construção de fluxos para envio, recebimento e rastreamento de volumes por identificadores, incluindo regras de ciclo de vida, transições de estado e apoio à modelagem de dados. |
+| Gestão de equipes e horas | Implementação de regras para estrutura de equipes, membros e apontamento de horas, além de dashboards interativos e visualizações com gráficos. |
+| Gestão de ativos e ferramentas | Desenvolvimento de operações de inventário, empréstimo, devolução e transferência entre unidades, com foco em rastreabilidade e consistência dos dados. |
+| Monitoramento industrial | Integração com APIs externas para consultar estado operacional, manutenção e localização de equipamentos, apresentando os dados em fluxos e dashboards para acompanhamento. |
+
 ## Engenharia em foco
 
 | Enterprise development | Automation & quality | AI-Driven Engineering |
